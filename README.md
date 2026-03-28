@@ -1,3 +1,4 @@
 # Mentora
 Welcome to the Mentora project repository!
-hi everyone i will be starting this project soon! j
+
+the structure of project will be like this -
