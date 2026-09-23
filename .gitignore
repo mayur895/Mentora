@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables & secrets (Security)
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# OS & IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
