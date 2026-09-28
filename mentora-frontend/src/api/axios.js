@@ -12,7 +12,7 @@ const api = axios.create({
   baseURL: getBaseURL()
 });
 
-// Attach JWT token to every request if present
+// Attach JWT token to every request if present yes 
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem("mentora_token");
   if (token) config.headers.Authorization = `Bearer ${token}`;
