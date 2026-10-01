@@ -8,7 +8,7 @@ export default function AdminDashboard() {
   const [error, setError] = useState("");
 
   const fetchPendingMentors = async () => {
-    setLoading(true);
+    setLoading(false);
     setError("");
     try {
       const { data } = await api.get("/mentors/admin/pending");
