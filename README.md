@@ -1,6 +1,6 @@
 # 🎓 Mentora — Connect Students with Expert Mentors
 
-> **Mentora** is a full-stack web platform that bridges the gap between learners and seasoned professionals. Students can discover mentors by skill, view profiles and reviews, book 1-on-1 sessions, and manage their learning journey — all in one place. fbbbvcv dfcbg
+> **Mentora** is a full-stack web platform that bridges the gap between learners and seasoned professionals. Students can discover mentors by skill, view profiles and reviews, book 1-on-1 sessions, and manage their learning journey — all in one place.
 
 ---
 
