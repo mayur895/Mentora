@@ -42,7 +42,7 @@ export default function Login() {
           required
         />
         <button type="submit">Log In</button>
-        <p>No account? <Link to="/register">Register</Link></p>
+        <p>No account? pleas <Link to="/register">Register</Link></p>
       </form>
     </div>
   );
